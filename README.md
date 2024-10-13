@@ -1,2 +1,2 @@
 # Blackpanther
- htm land css fading eye changing panther
+ html and css fading eye changing panther
